@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int m,n ;
+	int m, n;
 	cout << "输入5 2" << endl;
 	cin >> m >> n;
 	cout << "m/n整数除=" << m / n << endl;//两个int做除法结果也为int，舍弃小数
@@ -18,10 +18,10 @@ int main()
 	cin >> ch;
 	cout << ch << endl;
 	cout << int(ch) << endl;
-	cout << int(ch)+1 << endl;
-	cout << char(ch-32) << endl;
+	cout << int(ch) + 1 << endl;
+	cout << char(ch - 32) << endl;
 
-	enum colour{red,yellow,blue,white,black};
+	enum colour { red, yellow, blue, white, black };
 	colour c = blue;
 	cout << "c对应的整数为" << c << endl;
 	//red/blue/black分别是0/2/4

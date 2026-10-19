@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../实验一2/实验一2.vcxproj" />
+  <Project Path="../实验一3/实验一3.vcxproj" />
+  <Project Path="../实验一4/实验一4.vcxproj" />
+  <Project Path="../实验一5/实验一5.vcxproj" />
+  <Project Path="实验一1.vcxproj" />
+</Solution>

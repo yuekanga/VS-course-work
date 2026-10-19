@@ -7,7 +7,7 @@ int main()
 	const double PI = 3.141592653589793;
 	double r = 0;
 	cout << "请输入r:" << endl;
-	cin >> r ;
+	cin >> r;
 	double C = 2 * PI * r;
 	double S = PI * r * r;
 	cout << "radius=" << r << endl;
