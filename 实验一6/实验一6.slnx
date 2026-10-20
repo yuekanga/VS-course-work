@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../实验一6B/实验一6B.vcxproj" Id="d13b4371-8fea-4add-96ec-051d8a571669" />
+  <Project Path="../实验一6C/实验一6C.vcxproj" Id="c37d97db-6f04-44df-affa-286cb6cae70b" />
+  <Project Path="../实验一7/实验一7.vcxproj" Id="31bd939f-4091-41e5-9a40-dc7486ba516e" />
+  <Project Path="实验一6.vcxproj" Id="3603035f-014d-44ec-a9b7-67adc9d156b1" />
+</Solution>

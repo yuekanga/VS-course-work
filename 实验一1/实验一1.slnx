@@ -3,9 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../实验一2/实验一2.vcxproj" />
-  <Project Path="../实验一3/实验一3.vcxproj" />
-  <Project Path="../实验一4/实验一4.vcxproj" />
-  <Project Path="../实验一5/实验一5.vcxproj" />
-  <Project Path="实验一1.vcxproj" />
+  <Project Path="../实验一2/实验一2.vcxproj" Id="59b0416f-2e13-4a87-b715-48f88aca0222" />
+  <Project Path="../实验一3/实验一3.vcxproj" Id="5cab8b44-89c4-4b16-a539-155001076938" />
+  <Project Path="../实验一4/实验一4.vcxproj" Id="59eda5cc-5417-4835-bd6a-098e3d3db0e6" />
+  <Project Path="../实验一5/实验一5.vcxproj" Id="cc20d17f-0bfc-4d4d-a1cc-6322696a108f" />
+  <Project Path="实验一1.vcxproj" Id="a7c586c4-4ab5-454f-9118-0d9e5239e999" />
 </Solution>
