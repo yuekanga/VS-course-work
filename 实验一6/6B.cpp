@@ -49,5 +49,6 @@ int main()
 	//cout << *vp << endl;//错误，void*不能解引用
 	// ⑭ 
 	 
+	system("pause");
 	return 0;
 }

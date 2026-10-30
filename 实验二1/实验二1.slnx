@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../实验二2/实验二2.vcxproj" Id="ffeb1562-d0c6-42f7-afce-298e976ddcf6" />
+  <Project Path="../实验二3/实验二3.vcxproj" Id="ecac97a6-badc-49d6-8a51-86c9ea9c0c14" />
+  <Project Path="../实验二4/实验二4.vcxproj" Id="7397e815-03f2-4935-851d-af2f59921058" />
+  <Project Path="../实验二5/实验二5.vcxproj" Id="0cbd60e0-9df2-42ac-a388-d1f06bc47401" />
+  <Project Path="../实验二6-do-while/实验二6-do-while.vcxproj" Id="7c9a452b-e933-4f4f-a76c-aabd285f684a" />
+  <Project Path="../实验二6/实验二6.vcxproj" Id="ef300ec0-d987-486e-8228-83783a251dbf" />
+  <Project Path="实验二1.vcxproj" Id="6f5358e2-3583-4125-84cb-f303a29be26b" />
+</Solution>

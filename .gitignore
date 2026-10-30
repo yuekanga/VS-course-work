@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# === 康悦补充（2026-10-30）===
+# VS 有时会把 exe 直接生成在项目文件夹里（不在 x64/Debug 里），
+# 上面的规则只挡编译目录、挡不住这种散落各地的 exe。
+# 下面这条 = 所有编译出来的程序都不传 GitHub，仓库里只放源码。
+*.exe

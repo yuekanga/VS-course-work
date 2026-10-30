@@ -30,5 +30,6 @@ int main()
 	cout << int(c + 1) << endl;
 	//⑥ 观察：char参与算术会转int    
 
+	system("pause");
 	return 0;
 }

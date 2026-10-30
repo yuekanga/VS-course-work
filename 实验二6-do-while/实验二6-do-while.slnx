@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../实验二7/实验二7.vcxproj" />
+  <Project Path="../实验二8-getchar()/实验二8-getchar().vcxproj" />
+  <Project Path="../实验二8/实验二8.vcxproj" />
+  <Project Path="../实验二9/实验二9.vcxproj" />
+  <Project Path="实验二6-do-while.vcxproj" />
+</Solution>

@@ -35,6 +35,7 @@ int main()
 
 	const int& r9 = 42;//合法，常量引用可以绑定到一个字面量上
 	// ⑧ 判断合法还是非法
-	    
+	
+	system("pause");
 	return 0; 
 }
