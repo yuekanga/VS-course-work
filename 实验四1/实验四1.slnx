@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../实验四1-修改/实验四1-修改.vcxproj" Id="aee5941b-f1c2-4412-9e3e-ae68da2ad2df" />
+  <Project Path="../实验四2/实验四2.vcxproj" Id="53caf6f7-e68e-44f4-a23a-6d24b8396692" />
+  <Project Path="../实验四3-深复制/实验四3-深复制.vcxproj" Id="4a3216ba-c4e8-4276-94fc-926c1113743f" />
+  <Project Path="../实验四3/实验四3.vcxproj" Id="0e243d45-7fc0-4ff3-8d3f-4e7d199a689d" />
+  <Project Path="实验四1.vcxproj" Id="0e62cb9e-45bf-41a7-8f60-d026a0697aeb" />
+</Solution>
